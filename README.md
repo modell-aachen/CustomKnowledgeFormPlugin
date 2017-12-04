@@ -1,0 +1,2 @@
+# CustomKnowledgeFormPlugin
+Custom component for KnowledgeFormPlugin
